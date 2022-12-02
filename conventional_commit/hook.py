@@ -1,7 +1,7 @@
 import argparse
 import sys
 
-from conventional-commit import format
+from conventional_commit import format
 
 RESULT_SUCCESS = 0
 RESULT_FAIL = 1
