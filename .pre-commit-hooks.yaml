@@ -1,0 +1,7 @@
+- id: conventional-commit
+  name: Conventional Commit
+  entry: conventional-commit
+  language: python
+  description: Commit messages
+  always_run: true
+  stages: [commit-msg]
